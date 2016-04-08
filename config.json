@@ -1,0 +1,6 @@
+{
+  "protocol": "https",
+  "host": "form.io",
+  "project": "myproject",
+  "forms": ["test", "another"]
+}
